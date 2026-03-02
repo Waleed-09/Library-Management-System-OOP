@@ -6,23 +6,23 @@ The system allows members to register, log in, and manage book borrowing activit
 
 This project demonstrates practical implementation of Object-Oriented Programming (OOP) concepts.
 
-🚀 Features
+ Features
 
-📝 Register Member
+ Register Member
 
-🔐 Member Login
+ Member Login
 
-📖 View Available Books
+ View Available Books
 
-📤 Borrow Book
+ Borrow Book
 
-📥 Return Book
+ Return Book
 
-📚 View My Borrowed Books
+ View My Borrowed Books
 
-🚪 Exit System
+ Exit System
 
-🧠 OOP Concepts Used
+ OOP Concepts Used
 
 Classes & Objects
 
@@ -38,7 +38,7 @@ User authentication logic
 
 Menu-driven program design
 
-🛠 Technologies Used
+ Technologies Used
 
 Java
 
@@ -46,18 +46,18 @@ IntelliJ IDEA
 
 Git & GitHub
 
-💻 How to Run
+ How to Run
 
-1️⃣ Clone the repository:
+ Clone the repository:
 
 git clone https://github.com/Waleed-09/Library-Management-System-OOP.git
 
 
-2️⃣ Open in IntelliJ IDEA or Eclipse
+ Open in IntelliJ IDEA or Eclipse
 
-3️⃣ Run Main.java
+ Run Main.java
 
-📂 Project Structure
+ Project Structure
 Library-Management-System-OOP/
 │
 ├── src/
@@ -69,7 +69,7 @@ Library-Management-System-OOP/
 ├── README.md
 └── .gitignore
 
-🔮 Future Improvements
+ Future Improvements
 
 Database integration (MySQL + JDBC)
 
@@ -81,7 +81,7 @@ GUI version using JavaFX
 
 Persistent data storage
 
-👨‍💻 Author
+ Author
 
 Muhammad Waleed Khan
 Software Engineering Student at COMSATS UNIVERSITY ISLAMABAD ABBOTTABAD CAMPUS
