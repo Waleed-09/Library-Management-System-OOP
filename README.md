@@ -1,28 +1,30 @@
-Library Management System (Java - OOP)
-📌 Overview
+Library Management System (Java - OOP) 📚
 
-This is a console-based Library Management System developed using Java.
-The system allows members to register, log in, and manage book borrowing activities.
+Note: This was my final Object-Oriented Programming (OOP) project during 4th semester at COMSATS University Islamabad, Abbottabad Campus.
 
-This project demonstrates practical implementation of Object-Oriented Programming (OOP) concepts.
+Overview
 
- Features
+This is a console-based Library Management System developed in Java, designed to simulate real-world library operations. Members can register, log in, and manage borrowing and returning books.
 
- Register Member
+This project demonstrates practical application of Object-Oriented Programming (OOP) concepts in a structured, menu-driven system.
 
- Member Login
+Features
 
- View Available Books
+Register Member – Create a new library account
 
- Borrow Book
+Member Login – Secure authentication for members
 
- Return Book
+View Available Books – Browse all books in the library
 
- View My Borrowed Books
+Borrow Book – Issue books to members
 
- Exit System
+Return Book – Return borrowed books
 
- OOP Concepts Used
+View My Borrowed Books – Track your borrowed books
+
+Exit System – Safely exit the program
+
+OOP Concepts Used
 
 Classes & Objects
 
@@ -38,7 +40,7 @@ User authentication logic
 
 Menu-driven program design
 
- Technologies Used
+Technologies Used
 
 Java
 
@@ -46,18 +48,17 @@ IntelliJ IDEA
 
 Git & GitHub
 
- How to Run
+How to Run
 
- Clone the repository:
+Clone the repository:
 
 git clone https://github.com/Waleed-09/Library-Management-System-OOP.git
 
+Open the project in IntelliJ IDEA or Eclipse
 
- Open in IntelliJ IDEA or Eclipse
+Run Main.java
 
- Run Main.java
-
- Project Structure
+Project Structure
 Library-Management-System-OOP/
 │
 ├── src/
@@ -65,15 +66,13 @@ Library-Management-System-OOP/
 │   ├── LibraryManagementSystem.java
 │   ├── Member.java
 │   ├── Book.java
-│
-├── README.md
+│   └── README.md
 └── .gitignore
-
- Future Improvements
+Future Improvements
 
 Database integration (MySQL + JDBC)
 
-Admin panel
+Admin panel for managing library resources
 
 Fine calculation system
 
@@ -81,7 +80,8 @@ GUI version using JavaFX
 
 Persistent data storage
 
- Author
+Author
 
 Muhammad Waleed Khan
-Software Engineering Student at COMSATS UNIVERSITY ISLAMABAD ABBOTTABAD CAMPUS
+Software Engineering Student at COMSATS University Islamabad, Abbottabad Campus
+GitHub: Waleed-09
