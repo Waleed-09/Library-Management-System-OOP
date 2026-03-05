@@ -1,14 +1,14 @@
-Library Management System (Java - OOP) 📚
+**Library Management System (Java - OOP) 📚**
 
 Note: This was my final Object-Oriented Programming (OOP) project during 4th semester at COMSATS University Islamabad, Abbottabad Campus.
 
-Overview
+**Overview**
 
 This is a console-based Library Management System developed in Java, designed to simulate real-world library operations. Members can register, log in, and manage borrowing and returning books.
 
 This project demonstrates practical application of Object-Oriented Programming (OOP) concepts in a structured, menu-driven system.
 
-Features
+**Features**
 
 Register Member – Create a new library account
 
@@ -24,7 +24,7 @@ View My Borrowed Books – Track your borrowed books
 
 Exit System – Safely exit the program
 
-OOP Concepts Used
+**OOP Concepts Used**
 
 Classes & Objects
 
@@ -40,7 +40,7 @@ User authentication logic
 
 Menu-driven program design
 
-Technologies Used
+**Technologies Used**
 
 Java
 
@@ -48,7 +48,7 @@ IntelliJ IDEA
 
 Git & GitHub
 
-How to Run
+**How to Run**
 
 Clone the repository:
 
@@ -58,7 +58,8 @@ Open the project in IntelliJ IDEA or Eclipse
 
 Run Main.java
 
-Project Structure
+**Project Structure**
+
 Library-Management-System-OOP/
 │
 ├── src/
@@ -68,8 +69,8 @@ Library-Management-System-OOP/
 │   ├── Book.java
 │   └── README.md
 └── .gitignore
-Future Improvements
 
+**Future Improvements**
 Database integration (MySQL + JDBC)
 
 Admin panel for managing library resources
@@ -80,7 +81,7 @@ GUI version using JavaFX
 
 Persistent data storage
 
-Author
+**Author**
 
 Muhammad Waleed Khan
 Software Engineering Student at COMSATS University Islamabad, Abbottabad Campus
